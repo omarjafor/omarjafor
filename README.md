@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @omarjafor
-- 👀 I’m interested in coding, music, movies, football etc.
+- 👋 Hi, I’m Omar Jafor Chowdhury Jaber
+- 👀 I’m interested in coding, learning, music, movies, football etc.
 - 🌱 I’m currently learning JavaScript and web devloping.
 - 💞️ I’m looking to collaborate on web developer team
-- 📫 How to reach me omarjaforchy@gmail.com
+- 📫 Hello, to reach me - omarjaforchy@gmail.com
 
 <!---
 omarjafor/omarjafor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
