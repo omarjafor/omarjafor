@@ -17,10 +17,10 @@ You can click the Preview link to take a look at your changes.
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 &nbsp; Studying Computer Science and Engineering.
+  - 🎓 &nbsp; Graduated in Computer Science and Engineering.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
+  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming, Movies as hobbies/side hustles.  
 </div> 
 </div>
 
