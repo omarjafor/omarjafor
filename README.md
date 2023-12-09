@@ -66,7 +66,7 @@
 
 <br />
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarjafor&theme=gotham" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarjafor&theme=gotham" width="900"/>
 </p>
 
 <p align="center">
