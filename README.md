@@ -1,14 +1,5 @@
-<!--- 
-- 👋 Hi, I’m Omar Jafor Chowdhury Jaber
-- 👀 I’m interested in coding, learning, music, movies, football etc.
-- 🌱 I’m currently learning JavaScript and web devloping.
-- 💞️ I’m looking to collaborate on web developer team
-- 📫 Hello, to reach me - omarjaforchy@gmail.com
+<img src="https://i.ibb.co/b736Qfk/Simple-Work-Linked-In-Banner.jpg" alt="Alt text">
 
-
-omarjafor/omarjafor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Hey there! I’m Omar Jafor Chowdhury 👋 </h1>
 <h3 align="center">🚀 Frontend Developer | Backend Developer | MERN Stack | Competitive Programmer  🚀</h3>
 <div>
@@ -20,7 +11,9 @@ You can click the Preview link to take a look at your changes.
   - 🎓 &nbsp; Graduated in Computer Science and Engineering.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming, Movies as hobbies/side hustles.  
+  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming, Movies as hobbies/side hustles.
+  - 💞️ &nbsp; I’m looking to collaborate on web developer team
+  - 📫 &nbsp; Hello, to reach me - omarjaforchy@gmail.com
 </div> 
 </div>
 
