@@ -1,15 +1,17 @@
+<div align='center'>
+<a href="https://www.linkedin.com/in/omarjaforchy/">
+<img src="./assets/banner/banner.jpg" alt="Alt text"></a>
+</div>
+
 <h1 align="center">Hey there! I’m Omar Jafor Chowdhury 👋 </h1>
 <h3 align="center">🚀 Frontend Developer | Backend Developer | MERN Stack | Competitive Programmer  🚀</h3>
-
-<img src="./assets//banner/banner.jpg" alt="Alt text">
-
 
 <div>
 <div align="left">
 <a href="https://app.daily.dev/omarjafor"><img align="right" width="180" height="280" src="https://api.daily.dev/devcards/09db650dd2844e0aba6ce580e9125245.png?r=5wd" alt="Omar Jafor Chowdhury's Dev Card" /></a>
 </div>
 <div align="left"> 
-  <h3> 👨🏻‍💻 About Me </h3>
+  <h3> 👨🏻‍💻 Professional Introduction </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   - 🎓 &nbsp; Graduated in Computer Science and Engineering.
@@ -21,7 +23,7 @@
 </div> 
 </div>
 
-## 💻 Current Stats
+## 💻 Profile Highlights
 
 <br />
 <p align="center">
@@ -29,7 +31,7 @@
 </p>
 
 
-## 💻 Reach Me Out
+## 💻 Let's Connect
 
 <br />
 <p align="center">
@@ -39,8 +41,10 @@
 </p>
 <br />
 
+## 💻 Tech Capabilities
+#### Experienced MERN Stack Frontend Developer proficient in HTML, CSS, Tailwind, JavaScript, React, Node.js, Express.js, MongoDB, and Firebase. Crafting dynamic web applications with engaging interfaces and robust backend systems. Committed to delivering innovative solutions that elevate user experiences and drive business growth.
 
-## 💻 Technologies that I Use
+## 💻 Technical Proficiencies
 
 <br>
 <p align="center">
@@ -63,7 +67,6 @@
 ## 📚 Profile Summary
 
 <div align="center">
-
 <br />
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarjafor&theme=gotham" width="900"/>
@@ -73,5 +76,29 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omarjafor&theme=gotham" width="400"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omarjafor&theme=gotham&utcOffset=8" width="400"/>
 </p>
-
 </div>
+
+## 📚 Latest Projects
+
+### Assets Strive Website
+#### [ Live Link](https://asset-strive-omarjafor.web.app/)
+
+- ✍️ Separate functionalities for allowing employees to manage assets and enabling admins to oversee all employees.
+
+- ✍️ Implemented JWT-based authentication for users logins.
+
+- ✍️ For employee and admin pages, allowing only verified individuals to access specific functionalities.
+
+### Curious Canvas Website
+#### [ Live Link](https://curious-canvas.web.app/)
+- ✍️ Enabled detailed blog post viewing, editing, and updating functionalities for registered users.
+
+- ✍️ Facilitated blog comments by users, encouraging interaction and community engagement, while ensuring user-specific limitations.
+
+- ✍️ Implemented user-friendly features like a dark/light theme toggle, engaging visuals.
+
+### Bombshell Beauty Website
+#### [ Live Link](https://bombshell-beauty-omarjafor.web.app/)
+- ✍️ Created an engaging brand shop platform enabling user registration, login, and personalized profiles.
+- ✍️ Designed a dynamic homepage showcasing top brands, featured products, and special offers to enhance user experience.
+- ✍️ Implemented shopping cart functionality, allowing users to add, view, and manage their selected items conveniently.
