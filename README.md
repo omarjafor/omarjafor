@@ -24,8 +24,6 @@ You can click the Preview link to take a look at your changes.
 </div> 
 </div>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=omarjafor&theme=gotham&border_radius=5&card_width=500" alt="GitHub Streak" /></a>
-
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
@@ -34,5 +32,5 @@ You can click the Preview link to take a look at your changes.
 </div> 
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hmsmiraz&theme=blux&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=omarjafor&theme=gotham&border_radius=5&card_width=500" alt="GitHub Streak" /></a>
 </p>
