@@ -1,6 +1,10 @@
 <div align='center'>
 <a href="https://www.linkedin.com/in/omarjaforchy/">
-<iframe width="560" height="315" src="https://github.com/omarjafor/omarjafor/assets/111047621/561270d7-9924-45d1-a8ff-0da1d9197485" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></a>
+<video width="560" height="315">
+    <source src="./assets/banner/banner.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</a>
 </div>
 
 https://github.com/omarjafor/omarjafor/assets/111047621/561270d7-9924-45d1-a8ff-0da1d9197485
