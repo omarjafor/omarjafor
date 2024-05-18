@@ -1,6 +1,6 @@
 <div align='center'>
 <a href="https://www.linkedin.com/in/omarjaforchy/">
-<video width="560" height="315">
+<video width="560" height="315" autoplay loop muted>
     <source src="./assets/banner/banner.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
