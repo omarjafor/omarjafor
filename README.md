@@ -1,13 +1,7 @@
 <div align='center'>
 <a href="https://www.linkedin.com/in/omarjaforchy/">
-<video width="560" height="315" autoplay loop muted>
-    <source src="./assets/banner/banner.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</a>
+<img src="./assets/banner/banner2.png" alt="Omar Jafor Chowdhury Jaber"></a>
 </div>
-
-https://github.com/omarjafor/omarjafor/assets/111047621/561270d7-9924-45d1-a8ff-0da1d9197485
 
 <h1 align="center">Hey there! I’m Omar Jafor Chowdhury 👋 </h1>
 <h3 align="center">🚀 Frontend Developer | Backend Developer | MERN Stack | Competitive Programmer  🚀</h3>
