@@ -1,6 +1,6 @@
 <div align='center'>
 <a href="https://www.linkedin.com/in/omarjaforchy/">
-<img src="./assets/banner/banner.jpg" alt="Alt text"></a>
+<iframe width="560" height="315" src="./assets/banner/banner.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <h1 align="center">Hey there! I’m Omar Jafor Chowdhury 👋 </h1>
