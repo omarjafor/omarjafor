@@ -76,6 +76,10 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omarjafor&theme=gotham" width="400"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omarjafor&theme=gotham&utcOffset=8" width="400"/>
 </p>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 </div>
 
 ## 📚 Latest Projects
