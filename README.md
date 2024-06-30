@@ -48,19 +48,23 @@
 
 <br>
 <p align="center">
-<img src="./assets/icon/HTML.png"/>
-<img src="./assets/icon/css.png"/>
-<img src="./assets/icon/JavaScript.png"/>
-<img src="./assets/icon/react.png"/>
-<img src="./assets/icon/tailwind.png"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width='60'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width='60'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width='60'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width='60'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width='60'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width='60'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width='60'/>
 
 </p>
 <br>
 <p align="center">
-<img src="./assets/icon/node.png"/>
-<img src="./assets/icon/express.png"/>
-<img src="./assets/icon/mongo.png"/>
-<img src="./assets/icon/firebase.png"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width='60'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width='60'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width='60'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width='60'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width='60'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" width='60'/>
 </p>
 <br>
 
