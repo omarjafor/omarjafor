@@ -27,10 +27,6 @@
 
 <br />
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=omarjafor&theme=neon-dark" alt="GitHub Streak" /></a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=omarjafor&theme=highcontrast" alt="omar jafor chowdhury" />
 </p>
 
